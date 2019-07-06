@@ -10,7 +10,7 @@ Implementing API Token authentication then follow the below process.
 
 # 1:
 
-### Php artisan make:middleware Authenticate
+### php artisan make:middleware Authenticate
 
 Once the Authenticate middleware is created then go the file and write the code inside Handle function as you can see I have written it for my API.
 
